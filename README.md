@@ -6,4 +6,4 @@ I build AI systems, backend infrastructure, and data pipelines. Currently runnin
 
 **Currently working on:** Applied AI for Quant Finance, Technical Consulting
 
-[Portfolio](https://jwlutz.com) • [LinkedIn](https://linkedin.com/in/jwlutz)
+[Portfolio](https://jwlutz.com) | [LinkedIn](https://linkedin.com/in/jwlutz)
